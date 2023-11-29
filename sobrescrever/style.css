@@ -1,0 +1,23 @@
+.container {
+
+    display: none;
+    flex-direction: column;
+    position: fixed;
+    left: 111vh;
+    top: 0;   
+    overflow-y: scroll;
+    background: gray;
+    color: #FFF;
+    padding: 15px;
+    text-align: center;
+    width: 615px;
+    height: 100%;
+
+}
+
+.ImgRoma {
+
+    width: 100%;
+    margin: 0;
+    
+}
